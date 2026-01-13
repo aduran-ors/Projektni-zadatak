@@ -1,0 +1,18 @@
+<section id="timeline">
+  <h2 class="section-title">Timeline</h2>
+  <p class="section-sub">Najvažnije točke karijere.</p>
+
+  <div class="card t-wrap">
+    <div class="timeline">
+      <div class="t-item"><div class="t-year">1958</div><div class="t-text">Rođen u Garyju (Indiana), SAD.</div></div>
+      <div class="t-item"><div class="t-year">1964–1975</div><div class="t-text">The Jackson 5: prvi veliki uspjesi.</div></div>
+      <div class="t-item"><div class="t-year">1979</div><div class="t-text">Solo proboj s albumom Off the Wall.</div></div>
+      <div class="t-item"><div class="t-year">1982</div><div class="t-text">Thriller — globalni fenomen.</div></div>
+      <div class="t-item"><div class="t-year">1987</div><div class="t-text">Bad — velika svjetska turneja i hitovi.</div></div>
+      <div class="t-item"><div class="t-year">1991</div><div class="t-text">Dangerous — novi zvuk i era velikih spotova.</div></div>
+      <div class="t-item"><div class="t-year">1995</div><div class="t-text">HIStory — hitovi i retrospektiva.</div></div>
+      <div class="t-item"><div class="t-year">2001</div><div class="t-text">Invincible — posljednji studijski album za života.</div></div>
+      <div class="t-item"><div class="t-year">2009</div><div class="t-text">Preminuo u Los Angelesu; ostaje ogroman kulturni utjecaj.</div></div>
+    </div>
+  </div>
+</section>
