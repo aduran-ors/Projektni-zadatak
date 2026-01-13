@@ -1,0 +1,26 @@
+<section id="galerija">
+  <h2 class="section-title">Galerija</h2>
+  <p class="section-sub">Fotografije s Wikimedia Commons.</p>
+
+  <div class="gallery">
+    <figure class="gitem">
+      <img class="gimg" src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Jackson%20in%201988.jpg" alt="Michael Jackson (1988)" loading="lazy" />
+      <figcaption class="gcap">Michael Jackson (1988) — Wikimedia</figcaption>
+    </figure>
+
+    <figure class="gitem">
+      <img class="gimg" src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Jackson%20(1988).jpg" alt="Michael Jackson (1988)" loading="lazy" />
+      <figcaption class="gcap">Michael Jackson (1988) — Wikimedia</figcaption>
+    </figure>
+
+    <figure class="gitem">
+      <img class="gimg" src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Jackson%20in%201988%20(enhanced).jpg" alt="Michael Jackson (enhanced)" loading="lazy" />
+      <figcaption class="gcap">Michael Jackson in 1988 (enhanced) — Wikimedia</figcaption>
+    </figure>
+
+    <figure class="gitem">
+      <img class="gimg" src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Jackson%20The%20Way%20You%20Make%20Me%20Feel.jpg" alt="The Way You Make Me Feel" loading="lazy" />
+      <figcaption class="gcap">The Way You Make Me Feel — Wikimedia</figcaption>
+    </figure>
+  </div>
+</section>
