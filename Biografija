@@ -1,0 +1,13 @@
+<section id="bio">
+  <h2 class="section-title">Biografija</h2>
+  <p class="section-sub">
+    Michael Jackson (1958–2009) američki je pjevač, plesač i autor kojeg mnogi zovu “King of Pop”.
+    Poznat je po vrhunskim nastupima uživo, prepoznatljivom plesu i videospotovima koji su postali dio pop-kulture.
+  </p>
+
+  <div class="card" style="padding:16px;">
+    <div class="small">
+      Ova stranica je kratak pregled: osnovni timeline, ključni albumi, najpoznatije pjesme i nekoliko brojki koje se najčešće spominju.
+    </div>
+  </div>
+</section>
