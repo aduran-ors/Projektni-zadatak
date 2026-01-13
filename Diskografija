@@ -1,0 +1,42 @@
+<section id="diskografija">
+  <h2 class="section-title">Diskografija (odabrani studijski albumi)</h2>
+  <p class="section-sub">Najpoznatiji albumi i par istaknutih pjesama.</p>
+
+  <div class="albums">
+    <article class="card album">
+      <div class="album-title">Off the Wall</div>
+      <div class="muted">1979</div>
+      <div class="small">Istaknute pjesme: Don't Stop 'Til You Get Enough, Rock with You</div>
+    </article>
+
+    <article class="card album">
+      <div class="album-title">Thriller</div>
+      <div class="muted">1982</div>
+      <div class="small">Istaknute pjesme: Billie Jean, Beat It, Thriller</div>
+    </article>
+
+    <article class="card album">
+      <div class="album-title">Bad</div>
+      <div class="muted">1987</div>
+      <div class="small">Istaknute pjesme: Bad, Smooth Criminal, Man in the Mirror</div>
+    </article>
+
+    <article class="card album">
+      <div class="album-title">Dangerous</div>
+      <div class="muted">1991</div>
+      <div class="small">Istaknute pjesme: Black or White, Remember the Time</div>
+    </article>
+
+    <article class="card album">
+      <div class="album-title">HIStory: Past, Present and Future, Book I</div>
+      <div class="muted">1995</div>
+      <div class="small">Istaknute pjesme: Scream, They Don't Care About Us, Earth Song</div>
+    </article>
+
+    <article class="card album">
+      <div class="album-title">Invincible</div>
+      <div class="muted">2001</div>
+      <div class="small">Istaknute pjesme: You Rock My World</div>
+    </article>
+  </div>
+</section>
