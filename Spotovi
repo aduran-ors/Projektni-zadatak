@@ -1,0 +1,54 @@
+<section id="spotovi">
+  <h2 class="section-title">Spotovi (YouTube)</h2>
+  <p class="section-sub">Najpoznatiji spotovi — ugrađeni direktno u stranicu.</p>
+
+  <div class="videos">
+    <div class="card video">
+      <h3 style="margin:0 0 10px;">Billie Jean</h3>
+      <div class="ratio">
+        <iframe src="https://www.youtube-nocookie.com/embed/Zi_XLOBDo_Y"
+                title="Michael Jackson - Billie Jean"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="card video">
+      <h3 style="margin:0 0 10px;">Beat It</h3>
+      <div class="ratio">
+        <iframe src="https://www.youtube-nocookie.com/embed/oRdxUFDoQe0"
+                title="Michael Jackson - Beat It"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="card video">
+      <h3 style="margin:0 0 10px;">Thriller</h3>
+      <div class="ratio">
+        <iframe src="https://www.youtube-nocookie.com/embed/sOnqjkJTMaA"
+                title="Michael Jackson - Thriller"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="card video">
+      <h3 style="margin:0 0 10px;">Smooth Criminal</h3>
+      <div class="ratio">
+        <iframe src="https://www.youtube-nocookie.com/embed/0o8pSQg0BEw"
+                title="Michael Jackson - Smooth Criminal"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</section>
