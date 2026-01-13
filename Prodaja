@@ -1,0 +1,12 @@
+<section id="prodaja">
+  <h2 class="section-title">Broj prodanih uradaka</h2>
+  <p class="section-sub">Procjene se razlikuju po izvoru — ovo su najčešće spominjane činjenice.</p>
+
+  <div class="card sales">
+    <ul>
+      <li><b>Thriller</b> se u pravilu navodi kao jedan od (ili) najprodavanijih albuma u povijesti.</li>
+      <li>Ukupna prodaja Jacksonove glazbe često se opisuje kao <b>“više stotina milijuna”</b> primjeraka (ovisno o metodologiji i izvoru).</li>
+      <li>Njegovi spotovi (posebno iz 80-ih i 90-ih) postavili su standarde za pop produkciju.</li>
+    </ul>
+  </div>
+</section>
