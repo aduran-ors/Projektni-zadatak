@@ -1,0 +1,7 @@
+<footer>
+  © <span id="year"></span> Michael Jackson — “King of Pop” (fan stranica)
+</footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
