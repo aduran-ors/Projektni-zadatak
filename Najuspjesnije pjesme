@@ -1,0 +1,17 @@
+<section id="hitovi">
+  <h2 class="section-title">Najuspješnije pjesme</h2>
+  <p class="section-sub">Brza lista hitova koji se najčešće navode.</p>
+
+  <div class="card" style="padding:16px;">
+    <div class="songs">
+      <div class="song"><div class="song-name">Billie Jean</div><div class="muted">1983</div></div>
+      <div class="song"><div class="song-name">Beat It</div><div class="muted">1983</div></div>
+      <div class="song"><div class="song-name">Thriller</div><div class="muted">1983</div></div>
+      <div class="song"><div class="song-name">Smooth Criminal</div><div class="muted">1988</div></div>
+      <div class="song"><div class="song-name">Man in the Mirror</div><div class="muted">1988</div></div>
+      <div class="song"><div class="song-name">Black or White</div><div class="muted">1991</div></div>
+      <div class="song"><div class="song-name">They Don't Care About Us</div><div class="muted">1996</div></div>
+      <div class="song"><div class="song-name">Earth Song</div><div class="muted">1995</div></div>
+    </div>
+  </div>
+</section>
