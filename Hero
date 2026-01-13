@@ -1,0 +1,28 @@
+<section class="hero">
+  <div>
+    <span class="pill">🎤 Michael Jackson / King of Pop</span>
+    <h1>Michael Jackson</h1>
+    <p class="sub">King of Pop</p>
+
+    <div class="cta">
+      <a class="btn primary" href="#hitovi">Najuspješnije pjesme</a>
+      <a class="btn" href="#diskografija">Diskografija</a>
+    </div>
+
+    <div class="grid4" style="margin-top:14px;">
+      <div class="card stat"><div class="stat-k">Nadimak</div><div class="stat-v">King of Pop</div></div>
+      <div class="card stat"><div class="stat-k">Najpoznatiji album</div><div class="stat-v">Thriller (1982)</div></div>
+      <div class="card stat"><div class="stat-k">Studio albumi (solo)</div><div class="stat-v">6 (najpoznatiji)</div></div>
+      <div class="card stat"><div class="stat-k">Hitovi</div><div class="stat-v">Deseci globalnih hitova</div></div>
+    </div>
+  </div>
+
+  <aside class="card hero-side">
+    <h3 style="margin:0 0 10px;">Galerija — brzi pregled</h3>
+    <img class="hero-img"
+         src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Jackson%20in%201988.jpg"
+         alt="Michael Jackson (1988) — Wikimedia"
+         loading="lazy" />
+    <div class="small" style="margin-top:10px;">Michael Jackson (1988) — Wikimedia</div>
+  </aside>
+</section>
